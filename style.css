@@ -140,8 +140,11 @@ input {
     transform: rotateY(-180deg);
     z-index: 4;
 }
+#checkbox-p4:checked ~ .book #p4{
+    transform: rotateY(-180deg);
+    z-index: 5;
+}
 #checkbox-p5:checked ~ .book #p5{
     transform: rotateY(-180deg);
     z-index: 6;
 }
-
