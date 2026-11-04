@@ -208,5 +208,5 @@ input {
 }
 #checkbox-p14:checked ~ .book #p14{
     transform: rotateY(-180deg);
-    z-index: 115;
+    z-index: 15;
 }
